@@ -13,9 +13,9 @@
 
 [Connecting Log Analytics Workspace to Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#connecting-log-analytics-workspace-to-virtual-machine)
 
-Microsoft Azure Sentinel
+[Microsoft Azure Sentinel](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#microsoft-azure-sentinel)
 
-Login to your Virtual Machine
+[Login to your Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#login-to-your-virtual-machine)
 
 Geo location API
 
