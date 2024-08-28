@@ -3,15 +3,15 @@
 <br>
 
 ## Index 
-Blueprint of your Project
+[Blueprint of your Project](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#blueprint-of-your-project)
 
-Creating a Virtual Machine
+[Creating a Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#creating-a-virtual-machine)
 
-Creating & configuring a Log Analytics Workspace
+[Creating & configuring a Log Analytics Workspace](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#creating--configuring-a-log-analytics-workspace)
 
-Microsoft Defender for Cloud
+[Microsoft Defender for Cloud](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#microsoft-defender-for-cloud)
 
-Connecting Log Analytics Workspace to Virtual Machine
+[Connecting Log Analytics Workspace to Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#connecting-log-analytics-workspace-to-virtual-machine)
 
 Microsoft Azure Sentinel
 
