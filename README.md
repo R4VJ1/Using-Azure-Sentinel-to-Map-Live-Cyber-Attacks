@@ -3,31 +3,31 @@
 <br>
 
 ## Index 
-[Blueprint of your Project](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#blueprint-of-your-project)
+[Blueprint of your Project](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#blueprint-of-your-project)
 
-[Creating a Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#creating-a-virtual-machine)
+[Creating a Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#creating-a-virtual-machine)
 
-[Creating & configuring a Log Analytics Workspace](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#creating--configuring-a-log-analytics-workspace)
+[Creating & configuring a Log Analytics Workspace](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#creating--configuring-a-log-analytics-workspace)
 
-[Microsoft Defender for Cloud](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#microsoft-defender-for-cloud)
+[Microsoft Defender for Cloud](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#microsoft-defender-for-cloud)
 
-[Connecting Log Analytics Workspace to Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/tree/main?tab=readme-ov-file#connecting-log-analytics-workspace-to-virtual-machine)
+[Connecting Log Analytics Workspace to Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#connecting-log-analytics-workspace-to-virtual-machine)
 
 [Microsoft Azure Sentinel](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#microsoft-azure-sentinel)
 
 [Login to your Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#login-to-your-virtual-machine)
 
-Geo location API
+[Geo location API](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#geo-location-api)
 
-[PowerShell Script](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#powershell-script)
+[PowerShell Script](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#powershell-script)
 
-[Creating Custom Log](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#creating-custom-log
+[Creating Custom Log](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#creating-custom-log)
 
-[Set up Map in Sentinel](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#set-up-map-in-sentinel)
+[Set up Map in Sentinel](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#set-up-map-in-sentinel)
 
-[How to Improve the security](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#how-to-improve-the-security)
+[How to Improve the security](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#how-to-improve-the-security)
 
-[Reference and Appreciation](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#reference-and-appreciation) 
+[Reference and Appreciation](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/blob/main/README.md#reference-and-appreciation)
 
 <br>
 
