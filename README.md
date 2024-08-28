@@ -3,25 +3,25 @@
 <br>
 
 ## Index 
-[Blueprint of your Project](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#blueprint-of-your-project)
+Blueprint of your Project
 
-[Creating a Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#creating-a-virtual-machine)
+Creating a Virtual Machine
 
-[Creating & configuring a Log Analytics Workspace](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#creating--configuring-a-log-analytics-workspace)
+Creating & configuring a Log Analytics Workspace
 
-[Microsoft Defender for Cloud](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#microsoft-defender-for-cloud)
+Microsoft Defender for Cloud
 
-[Connecting Log Analytics Workspace to Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#connecting-log-analytics-workspace-to-virtual-machine)
+Connecting Log Analytics Workspace to Virtual Machine
 
-[Microsoft Azure Sentinel](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#microsoft-azure-sentinel)
+Microsoft Azure Sentinel
 
-[Login to your Virtual Machine](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#login-to-your-virtual-machine)
+Login to your Virtual Machine
 
-[Geo location API](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#geo-location-api)
+Geo location API
 
 [PowerShell Script](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#powershell-script)
 
-[Creating Custom Log](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#creating-custom-log)
+[Creating Custom Log](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#creating-custom-log
 
 [Set up Map in Sentinel](https://github.com/mitesh72925/Using-Azure-Sentinel-to-Map-Live-Cyber-Attacks/edit/main/README.md#set-up-map-in-sentinel)
 
