@@ -15,4 +15,4 @@ Failed_RDP_with_Geolocation_CL
 
 
 
-Note: Change the "Failed_RDP_with_Geolocation_CL" to the file name that you provided when you linked Log Analytics Workspace to your VM.
+Note: Change the "Failed_RDP_with_Geolocation_CL" to the file name that you provided when you created Custom Log in Log Analytics Workspace.
